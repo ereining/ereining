@@ -33,7 +33,7 @@
 <!--&nbsp;-->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ereining&show_icons=true&locale=en" alt="ereining" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ereining&" alt="ereining" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ereining&" alt="ereining" />
 </div>
 
 https://user-images.githubusercontent.com/74296231/208851406-8af5e90d-711b-4d75-85bc-c344b7e53d25.mp4
