@@ -13,5 +13,8 @@ Furthermore, i wrote my diploma thesis in Blazor which leads to my broad knowled
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](http://www.youtube.com/watch?v=dQw4w9WgXcQ "Video Title")
 
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/default.jpg)](https://youtu.be/dQw4w9WgXcQ)
+
+
 
 
