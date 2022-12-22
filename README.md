@@ -29,19 +29,6 @@
 
 - ⚡ Fun fact **The "==" in Java does not call the equals Method of classes**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://instagram.com/eliasreininger" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-       alt="eliasreininger" height="30" width="40"/>
-    </a>
-    <a href="https://discord.gg/https://discord.gg/3mEMCMqfYK" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-       alt="https://discord.gg/3mEMCMqfYK" height="30" width="40"/>
-    </a>
-</p>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Frameworks:</h4>
 <p align="left">
@@ -120,4 +107,18 @@
   <img style="vertical-align: center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ereining&show_icons=true&locale=en" alt="ereining"/>
 
   <img width="34%"  src="https://github-readme-streak-stats.herokuapp.com/?user=ereining&show_icons=true&local=en" alt="ereining"/>
+</p>
+
+<hr/>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://instagram.com/eliasreininger" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+       alt="eliasreininger" height="30" width="40"/>
+    </a>
+    <a href="https://discord.gg/https://discord.gg/3mEMCMqfYK" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+       alt="https://discord.gg/3mEMCMqfYK" height="30" width="40"/>
+    </a>
 </p>
