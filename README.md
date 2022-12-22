@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, I'm Elias</h1>
-<h3 align="center">Average Python ejoyer</h3>
+<h3 align="center">Average Python enjoyer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ereining&label=Profile%20views&color=0e75b6&style=flat" alt="ereining"/>
