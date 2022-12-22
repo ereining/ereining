@@ -17,7 +17,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Chat**
+- 🖥️ I’m currently working on **SpringChat**
 
 - 🌱 I’m currently learning **Spring, MySQL**
 
@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **ereining@htl-steyr.ac.at**
 
-- ⚡ Fun fact **I can drink a lot of beer without vomiting.**
+- ⚡ Fun fact **The "==" in Java does not call the equals Method of classes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
