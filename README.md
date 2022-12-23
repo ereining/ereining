@@ -2,6 +2,7 @@
   <img src="https://github.com/ereining/ereining/blob/main/header.png" alt="Greetings 👋, I'm Elias"/>
 </p>
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ereining&label=Profile%20views&color=0e75b6&style=flat" alt="ereining"/>
 </p>
@@ -11,21 +12,28 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ereining&column=7" alt="ereining"/>
   </a>  
 </p>
-
+-->
 <p align="left">
   <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=""/>
   </a>
 </p>
 
+<h1>Overview:<h1/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&duration=2000&pause=1000&color=00DDFF&multiline=true&width=700&height=200&lines=-+%F0%9F%96%A5%EF%B8%8F+I%E2%80%99m+working+on+a+Chat;-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Spring%2C+MySQL;-+%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+my+Diploma+thesis;-+%F0%9F%92%AC+Ask+me+about+Python;-+%F0%9F%93%AB+How+to+reach+me+ereining%40htl-steyr.ac.at;-+%E2%9A%A1+Fun+fact+The+%22%3D%3D%22+in+Java+does+not+call+the+equals+Method+of+classes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&duration=2000&pause=1000&color=00DDFF&multiline=true&width=700&height=150&lines=-+%F0%9F%96%A5%EF%B8%8F+I%E2%80%99m+working+on+a+Chat;-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Spring%2C+MySQL;-+%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+my+Diploma+thesis;-+%F0%9F%92%AC+Ask+me+about+Python;-+%F0%9F%93%AB+How+to+reach+me+ereining%40htl-steyr.ac.at;-+%E2%9A%A1+Fun+fact+The+%22%3D%3D%22+in+Java+does+not+call+the+equals+Method+of+classes)](https://git.io/typing-svg)
 
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Frameworks:</h4>
+<h1 align="left">Languages and Tools:</h1>
+
+<h2>I Love ❤️:<h2/>
+<p align="center">
+  <img src="https://github.com/ereining/ereining/blob/main/result.png" alt="Python"/>
+</p>
+
+<h2 align="left">Frameworks:</h2>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -40,7 +48,7 @@
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
   </a>
 </p>  
-<h4 align="left"> Databases:</h4>
+<h2 align="left"> Databases:</h2>
 <p align="left">
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -50,7 +58,7 @@
          alt="postgresql" width="40" height="40"/>
  </a>
 </p>                                               
-<h4 align="left"> Frontend:</h4>
+<h2 align="left"> Frontend:</h2>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -64,7 +72,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a> 
 </p>
-<h4 align="left"> Backend:</h4>
+<h2 align="left"> Backend:</h2>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -79,7 +87,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-<h4 align="left">Others:</h4>
+<h2 align="left">Others:</h2>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
