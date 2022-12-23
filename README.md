@@ -112,7 +112,7 @@
 <hr/>
 <h2> Private </h2>
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=tkyb29iyc4powyrdzdrz7i7yl&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=tkyb29iyc4powyrdzdrz7i7yl&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tkyb29iyc4powyrdzdrz7i7yl&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=tkyb29iyc4powyrdzdrz7i7yl&redirect=true)
 
 <hr style="border:1px dotted #bbb !important;"/>
 
