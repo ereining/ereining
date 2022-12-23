@@ -112,8 +112,8 @@
 
 <hr/>
 <h2> Private </h2>
-
-[![Typing-SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&duration=4000&pause=400&color=00FFFF&width=435&lines=Hobbys%3A;programming;maths;physics;chemistry;musik)](https://git.io/typing-svg)
+<h5>Hobbys:<h5/>
+[![Typing-SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&duration=4000&pause=400&color=00FFFF&width=435&lines=programming;maths;physics;chemistry;musik)](https://git.io/typing-svg)
 
 [![my-spotify](https://spotify-github-profile.vercel.app/api/view?uid=tkyb29iyc4powyrdzdrz7i7yl&cover_image=true&theme=default&show_offline=true&background_color=000000&bar_color_cover=true&bar_color=00ffff)](https://spotify-github-profile.vercel.app/api/view?uid=tkyb29iyc4powyrdzdrz7i7yl&redirect=true)
 
