@@ -18,17 +18,11 @@
   </a>
 </p>
 
-- 🖥️ I’m working on a **Chat**
 
-- 🌱 I’m currently learning **Spring, MySQL**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&duration=2000&pause=1000&color=00DDFF&multiline=true&width=700&height=200&lines=-+%F0%9F%96%A5%EF%B8%8F+I%E2%80%99m+working+on+a+Chat;-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Spring%2C+MySQL;-+%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+my+Diploma+thesis;-+%F0%9F%92%AC+Ask+me+about+Python;-+%F0%9F%93%AB+How+to+reach+me+ereining%40htl-steyr.ac.at;-+%E2%9A%A1+Fun+fact+The+%22%3D%3D%22+in+Java+does+not+call+the+equals+Method+of+classes)](https://git.io/typing-svg)
 
-- 👯 I’m looking to collaborate on **Diploma thesis**
 
-- 💬 Ask me about **Python**
 
-- 📫 How to reach me **ereining@htl-steyr.ac.at**
-
-- ⚡ Fun fact **The "==" in Java does not call the equals Method of classes**
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Frameworks:</h4>
