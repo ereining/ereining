@@ -110,6 +110,11 @@
 </p>
 
 <hr/>
+<h2> Private </h2>
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=tkyb29iyc4powyrdzdrz7i7yl&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=tkyb29iyc4powyrdzdrz7i7yl&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)]]
+
+<hr style="border:1px dotted #bbb !important;"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -122,3 +127,10 @@
        alt="https://discord.gg/3mEMCMqfYK" height="30" width="40"/>
     </a>
 </p>
+
+
+<br/>
+<br/>
+<br/>
+
+
